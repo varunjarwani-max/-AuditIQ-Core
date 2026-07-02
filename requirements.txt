@@ -1,0 +1,6 @@
+# Currently utilizing Python standard libraries (json, random, datetime)
+# Future local-inference dependencies:
+# mlx
+# mlx-lm
+# fastapi
+# uvicorn
